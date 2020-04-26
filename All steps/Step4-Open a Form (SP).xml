@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2020-04-19 19:27:00">
+<sys_atf_step action="INSERT_OR_UPDATE">
+<active>true</active>
+<copied_from display_value=""/>
+<description>Open Cloud Catalog Item page in the Cloud User Portal portal
+
+Warning: Using a table that extends Application File [sys_metadata] may cause unexpected behavior for other tests running in parallel
+Warning: Using an existing record may cause unexpected behavior for this test
+See the documentation for Test Design Considerations</description>
+<display_name>Open a Form (SP)</display_name>
+<inputs/>
+<mugshots_cache_json/>
+<notes/>
+<order>4</order>
+<snapshot display_value=""/>
+<step_config display_value="Open a Form (SP)">ca58a941e7020300b2888f49c2f6a95e</step_config>
+<sys_class_name>sys_atf_step</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-04-19 14:06:11</sys_created_on>
+<sys_id>c948b7051b1494104c0dfcc8cc4bcb20</sys_id>
+<sys_mod_count>6</sys_mod_count>
+<sys_name>Open a Form (SP)</sys_name>
+<sys_package display_value="Global" source="global">global</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sys_atf_step_c948b7051b1494104c0dfcc8cc4bcb20</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-04-19 15:57:39</sys_updated_on>
+<table>sn_cmp_bp_cat_item</table>
+<test display_value="TEST: EOSNow -global  Customer X">654073091bd094104c0dfcc8cc4bcb79</test>
+<timeout/>
+<warning_message>Warning: Using a table that extends Application File [sys_metadata] may cause unexpected behavior for other tests running in parallel
+Warning: Using an existing record may cause unexpected behavior for this test
+See the documentation for Test Design Considerations</warning_message>
+</sys_atf_step>
+</unload>

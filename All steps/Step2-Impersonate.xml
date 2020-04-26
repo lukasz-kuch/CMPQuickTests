@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2020-04-19 19:26:39">
+<sys_atf_step action="INSERT_OR_UPDATE">
+<active>true</active>
+<copied_from display_value="">50ed67051bd094104c0dfcc8cc4bcb09</copied_from>
+<description>Impersonate the user: Customer X  with user Id: customerx
+
+Warning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead
+See the documentation for Test Design Considerations</description>
+<display_name>Impersonate</display_name>
+<inputs/>
+<mugshots_cache_json/>
+<notes/>
+<order>2</order>
+<snapshot display_value=""/>
+<step_config display_value="Impersonate">071ee5b253331200040729cac2dc348d</step_config>
+<sys_class_name>sys_atf_step</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-04-19 13:29:00</sys_created_on>
+<sys_id>654073091bd094104c0dfcc8cc4bcb7e</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_name>Impersonate</sys_name>
+<sys_package display_value="Global" source="global">global</sys_package>
+<sys_policy/>
+<sys_scope display_value="Global">global</sys_scope>
+<sys_update_name>sys_atf_step_654073091bd094104c0dfcc8cc4bcb7e</sys_update_name>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-04-19 15:36:38</sys_updated_on>
+<table/>
+<test display_value="TEST: EOSNow -global  Customer X">654073091bd094104c0dfcc8cc4bcb79</test>
+<timeout/>
+<warning_message>Warning: Impersonating an existing user may cause unexpected behavior for this test. Avoid potential issues by adding a 'Create a User' step instead
+See the documentation for Test Design Considerations</warning_message>
+</sys_atf_step>
+</unload>
